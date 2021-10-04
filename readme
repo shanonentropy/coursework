@@ -1,0 +1,6 @@
+these files were created to practice out code while working through tutorials. They cover regex, seaborn, pandas, numpy, scipy, list manipulation and matplotlib.
+the files are created to allow any walk-through and serve as a quick refresher
+
+RPNcalc.py is radiation pressure calculator
+adevcalculator.py calculates ADEV given a wavemeter output
+
